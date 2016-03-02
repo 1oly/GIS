@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06072998046875,
+          56.036640346352655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.060408115386963,
+            56.0373955577263
+          ],
+          [
+            10.06071925163269,
+            56.03671227188209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.059742927551268,
+            56.037281677592375
+          ],
+          [
+            10.060697793960571,
+            56.03667630913412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.06272554397583,
+            56.03755139315448
+          ],
+          [
+            10.060762166976929,
+            56.03667031533954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.060762166976929,
+            56.037719215219546
+          ],
+          [
+            10.06070852279663,
+            56.0366942905123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.059142112731934,
+            56.03748546285781
+          ],
+          [
+            10.060697793960571,
+            56.036652333950194
+          ]
+        ]
+      }
+    }
+  ]
+}
